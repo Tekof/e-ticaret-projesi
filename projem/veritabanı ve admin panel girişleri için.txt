@@ -1,0 +1,9 @@
+Veritabanı
+----------------
+id : root
+sifre : 123456789
+----------------
+Admin Panel
+----------------
+furkantekin@trakya.edu.tr
+12345678
